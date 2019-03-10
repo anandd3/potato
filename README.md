@@ -1,13 +1,13 @@
-#Goal
+# Goal
 To predict contact at a given time of day.
 
-#Dataset
+# Dataset
 Used own call logs.
 
-#Approch
+# Approch
 Used K-Nearest Neighbour and considered 3 nearest neighbour for an example.
 
-Data Visualization and Preprocessing: Contains pre-processing and visualisation of data
+__Data Visualization and Preprocessing:__ Contains pre-processing and visualisation of data
 
-Prediction model (K-Nearest Neighbor): Contains KNN model fit and prediction.
+__Prediction model (K-Nearest Neighbor):__ Contains KNN model fit and prediction.
 
