@@ -13,4 +13,4 @@ __Prediction model (K-Nearest Neighbor):__ Contains KNN model fit and prediction
 
 __What if - Cyclic Normalize:__ Considered cyclic labeling of time and day.
 
-__What if  - Time Hourly:__ Considered multiple entries in single hour.
+__What if - Time Hourly:__ Considered multiple entries in single hour.
